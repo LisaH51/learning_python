@@ -1,4 +1,4 @@
-"""Hello, This program is about building a fun story by 
+"""Hello World, This program is about building a fun story by 
 asking users to choose some words that will be inserted in the middle of sentenses"""
 print ("Hi! Welcome to Mab Libs!")
 hero = raw_input ("Lets start by choosing the main character's name of your story:")
